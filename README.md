@@ -3,13 +3,12 @@
 # Tutorial para Gráficar  
 
 Tutorial de como gráficar los datos, gráficos como: 
-- lineas
-- barras
-- histogramas
-- Pie
+1.  lineas
+1.  barras
+1.  histogramas
+1.  Pie
 
 
-1. Matplotlib 
 
 
 ## Jupyther Notebook  
