@@ -1,4 +1,4 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true">   
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 200 width= 300 alt=" ">   
 
 # Tutorial para Gráficar los datos
 
