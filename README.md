@@ -10,6 +10,7 @@ Tutorial de como gráficar los datos, gráficos de:
 1. scatter 
 1. Heatmap
 1. pairplot
+1. Mapas
 
 
 
@@ -21,3 +22,4 @@ Tutorial de como gráficar los datos, gráficos de:
 - [Seaborn](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/guia_seaborn.ipynb)
 - [plotly](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/plotly.ipynb)
 - [plotly express](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/plotlyexpresss.ipynb)
+- [mapas](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/Maps.ipynb)
