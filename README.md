@@ -11,6 +11,7 @@ Tutorial de como gráficar los datos, gráficos de:
 1. Heatmap
 1. pairplot
 1. Mapas
+1. Clandlestick
 
 
 
@@ -23,3 +24,4 @@ Tutorial de como gráficar los datos, gráficos de:
 - [plotly](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/plotly.ipynb)
 - [plotly express](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/plotlyexpresss.ipynb)
 - [mapas](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/Maps.ipynb)
+-[Clandlestick](https://nbviewer.jupyter.org/github/luishernand/tutarial_visualizaciones_python/blob/master/Candlestick%20Chart.ipynb)
