@@ -16,7 +16,7 @@
 
 
 
-## Jupyther Notebook  
+## Notebook  
 
 - [Matplotlib](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/guia_matplotlib.ipynb)
 - [Seaborn](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/guia_seaborn.ipynb)
