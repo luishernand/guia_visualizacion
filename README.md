@@ -1,5 +1,3 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true">   
-
 # Tutoriales de Matplot,  Seaborn y plotly
 
 Tutorial de como gráficar los datos, gráficos de: 
