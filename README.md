@@ -1,4 +1,5 @@
 # Tutoriales de Matplot,  Seaborn y plotly
+![logo]
 
 Tutorial de como gráficar los datos, gráficos de: 
 1.  lineas
@@ -24,3 +25,7 @@ Tutorial de como gráficar los datos, gráficos de:
 - [mapas](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/Maps.ipynb)
 -[Clandlestick](https://nbviewer.jupyter.org/github/luishernand/tutarial_visualizaciones_python/blob/master/Candlestick%20Chart.ipynb)
 - [Seborn and matplotlib](https://nbviewer.jupyter.org/github/luishernand/tutarial_visualizaciones_python/blob/master/Seborn%20and%20matplolib.ipynb)
+
+
+[logo]:https://github.com/luishernand/tutarial_visualizaciones_python/blob/master/thumbnail.png
+
