@@ -1,7 +1,7 @@
 # Tutoriales de Matplot,  Seaborn y plotly
 ![logo]
 
-Tutorial de como gráficar los datos, gráficos de: 
+**Gráficos de:** 
 1.  lineas
 1.  barras
 1.  histogramas
