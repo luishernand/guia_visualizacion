@@ -25,3 +25,4 @@ Tutorial de como gráficar los datos, gráficos de:
 - [plotly express](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/plotlyexpresss.ipynb)
 - [mapas](https://nbviewer.jupyter.org/github/luishernand/guia_visualizacion/blob/master/Maps.ipynb)
 -[Clandlestick](https://nbviewer.jupyter.org/github/luishernand/tutarial_visualizaciones_python/blob/master/Candlestick%20Chart.ipynb)
+- [Seborn and matplotlib](https://nbviewer.jupyter.org/github/luishernand/tutarial_visualizaciones_python/blob/master/Seborn%20and%20matplolib.ipynb)
